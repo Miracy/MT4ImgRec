@@ -1,6 +1,6 @@
 Download the folders: MT4ImgRec and aircraft-data.
 
-MT4ImgRec is a metamorphic testing tool for image recognition system.
+MT4ImgRec is a metamorphic testing tool for image recognition software.
 
 Install all the packages and run GUI.py.
 
